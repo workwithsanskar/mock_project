@@ -29,5 +29,6 @@ All contributions are welcome, including:
 If you find a bug, please open an issue and describe it clearly.
 
 ---
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 Thank you for helping improve this project ❤️
